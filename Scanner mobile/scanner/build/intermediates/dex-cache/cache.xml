@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Hamza Mounir\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\okio-1.8.0_3e1021928c1841cc30cbf86666377bb6fdd6c494.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_aed5415381589a6d933edf9c18add72086a3af8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.4.0_ab330400f85fbf3e760ac394a23206e8f3c21285.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_c03ba7dc69bebd53dfa75a330d062b78aa7eed7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ada4aef37a34f1a619bfb27f9057e251a7e3bc4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_72949c7ef5d1c04d823c05e5a7c6d77a43e14c32.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_c96611143ee2df8d4e789756d9f0cdfacc04d4c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_77686d6b53c07227569ee2ef3f988578d55c67a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_0cbf88bacb72667ddcaedd0a3806872229853ccf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_9cc2358f5d6ab2e1d29d5cb86260170dc2569e8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\gson-2.7_e778b896c79e150fde56c29602ee615a323ad0f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_588bff38edf84c93f904888efef527580c502a37.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_050307d34664ffce7dd130157f1975ec57fa895a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_02527f123770e989f6e3f0ae04aa6f922b0ef7db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_0c656f08f64df07d70715e41d1268b1ad1eff3a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_e060a0c260b2ab2fbbd30bbbc4d0a9423dabf7f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_f27d57c79397e8ce5d6bd79e49cf6750dd6a3c3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_6f82ebd0d55e4cd5da9654a4270a86829e129d1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_e6a837fac1fa53fdbf3649da3bcc1e811a79a314.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_b5cf3d3b7282f2f6b1d6b9596cfa78d1bfb9be83.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_102029f2afab0b86951a7424fa72f4a51fd3de48.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_506f131f297b66e0fe56b055988a97c3f01cc09a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_53e8e926f7ff2e1e514c6d377a26cadce7ca1aa0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_3b5f052b3ebd61557dcec1ae1fd2531c65cc06af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_dcb16c1be8747fe96f2f4724803feca14730c260.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_99ebef7b454ad94535f9be6e139cd0c8cd3fe62f.jar" />
+    </item>
+
+</items>

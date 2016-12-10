@@ -1,0 +1,2 @@
+CHANGED,C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\google\android\gms\samples\vision\barcodereader\Activity\AddProductActivity$override.class
+CHANGED,C:\Users\Hamza Mounir\Desktop\scanner\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
